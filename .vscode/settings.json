@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "dirent.h": "c",
+        "sched.h": "c",
+        "termios.h": "c",
+        "dlfcn.h": "c",
+        "features.h": "c"
+    }
+}
